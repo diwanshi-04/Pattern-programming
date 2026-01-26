@@ -10,3 +10,13 @@ class Main {
         }
     }
 }
+/*OUTPUT:
+0
+01
+012
+0123
+01234
+012345
+
+=== Code Execution Successful ===
+*/
