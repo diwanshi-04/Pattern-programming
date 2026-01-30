@@ -43,17 +43,17 @@ This repository includes programs for:
 
 ---
 
-## How to Run the Code
+## ▶️ How to Run the Code
 
 1. Clone this repository:
-   
- ```bash
-   git clone https://github.com/your-username/pattern-programming-java.git
-
+```bash
+git clone https://github.com/your-username/pattern-programming-java.git
+```
 
 2. Open the project in your IDE.
+
 3. Compile and run any Java file:
----
+```bash
 javac FileName.java
 java FileName
----
+```
