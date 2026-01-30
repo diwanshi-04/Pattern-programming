@@ -43,7 +43,7 @@ This repository includes programs for:
 
 ---
 
-## ▶️ How to Run the Code
+##  How to Run the Code
 
 1. Clone this repository:
 ```bash
